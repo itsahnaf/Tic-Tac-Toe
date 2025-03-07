@@ -1,6 +1,4 @@
-Got it! Below is a more structured and formal `README.md` file that follows conventions for a proper open-source project in a professional style:
 
-```markdown
 # Tic-Tac-Toe Game
 
 A simple, graphical two-player Tic-Tac-Toe game built with Python and Tkinter. The game features an easy-to-use interface with colourful elements to distinguish between players and provide feedback on game progress, such as detecting winners and ties.
@@ -94,22 +92,3 @@ This project is open-source and available under the MIT Licence. See the [LICENS
 
 - The Tkinter library is used for building the GUI.
 - This project was inspired by the classic Tic-Tac-Toe game.
-
----
-
-Feel free to improve and expand the game or add new features. Contributions are welcome!
-```
-
-### Key Elements Included:
-1. **Project Title and Description**: Clear explanation of what the project is.
-2. **Features**: A bullet-point list of the key features of the game.
-3. **Installation Instructions**: Step-by-step guide to installing the required dependencies.
-4. **How to Play**: Instructions on how the game is played.
-5. **How It Works**: An explanation of the underlying game logic.
-6. **Code Structure**: An overview of the key components of the code.
-7. **Screenshot**: Placeholder for a screenshot of the game in action.
-8. **Contribution**: Instructions on how others can contribute to the project.
-9. **Licence**: Mentions that the project is open-source and under an MIT licence.
-10. **Acknowledgements**: Giving credit to libraries or sources of inspiration.
-
-This structure is professional and suitable for a public GitHub repository or a software project that you might want to share with others. You can replace `screenshot.png` with an actual screenshot of the game or remove it if not necessary.
